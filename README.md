@@ -1,7 +1,6 @@
 # Guía de estudio — Certificación de Broker Hipotecario ABH
 
 ## Descripción
-### guia-reglamento-societario.html
 
 Proyecto educativo desarrollado como material de apoyo para la preparación del examen de certificación de Broker Hipotecario de la Asociación de Brokers Hipotecarios (ABH) en México.
 
